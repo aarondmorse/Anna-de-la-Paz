@@ -1,0 +1,71 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				
+				<h2>Anna de la Paz Spanish Dance</h2>
+				
+				<p style="margin-bottom: 0;">My mission is to share the richness and diversity of Spanish dance with my classes and audiences in Rockland County, NY, and the surrounding areas. My dance performances, classes, school lectures &amp; demonstrations and workshops in New York bring to life the many different styles of Spanish dance, including the courtly 18th century escuela bolera, the folkloric dances such as <span class="italic">jota</span> and <span class="italic">mu&ntilde;eira</span>, the elegant classical Spanish dances, and the powerful and deep interpretations of flamenco.  Participants in my programs achieve a deep understanding and appreciation of the art form of Spanish dance throughout NY/NJ.</p>
+				
+				<p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+				<div class="galleryblock prependtop">
+				
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Anna de la Paz Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_1_sm.jpg" alt="Spanish Dance Performance Nyack NY" width="90px" height="115px" /></a>
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Anna de la Paz Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_2_sm.jpg" alt="Anna de la Paz Spanish Dancer, Instructor" width="90px" height="115px" /></a>
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Anna de la Paz Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_3_sm.jpg" alt="Anna de la Paz Spanish Dance - Headshot" width="90px" height="115px" /></a>
+				
+				</div>
+				
+				</div>
+			
+				<!-- aside div include -->
+					
+					<!--#include file="inc/aside.shtml"-->
+				
+				<!-- end aside div include -->
+				
+		
+		
+				<!-- footer include -->
+					<!--#include file="inc/footer.shtml"-->
+				<!-- end footer include -->
+			  
+				<div id="tags">
+					<h3>Tags:</h3>
+					<ul style="margin-bottom: 0;">
+						<li><a href="index.shtml" rel="bookmark">Spanish dance</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">Spanish Dance NY</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">Spanish Dance Rockland County NY</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">dance performances</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">flamenco classes</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">Spanish dance programs NY</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">cultural workshops NY</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">arts in education NY</a><span>,</span></li>
+						<li><a href="index.shtml" rel="bookmark">Spanish dance demonstrations NY</a><span>,</span></li>
+
+					</ul>
+				</div>
+				
+			</div> <!-- End Footer -->
+		
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

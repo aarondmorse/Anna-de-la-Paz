@@ -1,0 +1,56 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				<h2>Register for Spanish Dance Classes in NY/NJ</h2>
+				
+					<script src="http://www.jotformpro.com/jsform/1252152841"></script>
+			</div>
+			
+			<!-- aside div include -->
+				
+				<!--#include file="inc/aside.shtml"-->
+			
+			<!-- end aside div include -->
+			
+		
+		
+			  <!-- footer include -->
+                <!--#include file="inc/footer.shtml"-->
+              <!-- end footer include -->
+				
+				<div id="tags">
+				<h3>Tags:</h3>
+						<ul>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">Spanish Dance Classes NY</a><span>,</span></li>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">dance class registration NY</a><span>,</span></li>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">spanish dance instruction</a><span>,</span></li>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">dance classes nyack NY</a><span>,</span></li>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">dance classes Rockland County NY</a><span>,</span></li>
+							<li><a href="register-spanish-dance-classes-NY.shtml" rel="bookmark">dance classes Bergen County NJ</a></li>
+						</ul>
+				</div>
+				
+			</div> <!-- End Footer -->
+		
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

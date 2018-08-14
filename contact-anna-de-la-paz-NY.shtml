@@ -1,0 +1,56 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				<h2>Contact Anna de la Paz</h2>
+				
+					<script type="text/javascript" src="http://www.jotformpro.com/jsform/1235517775"></script>
+			</div>
+			
+			<!-- aside div include -->
+				
+				<!--#include file="inc/aside.shtml"-->
+			
+			<!-- end aside div include -->
+			
+		
+		
+			  <!-- footer include -->
+                <!--#include file="inc/footer.shtml"-->
+              <!-- end footer include -->
+
+			  <div id="tags">
+				<h3>Tags:</h3>
+						<ul>
+							<li><a href="contact-anna-de-la-paz.shtml" rel="bookmark">Contact Anna de la Paz</a><span>,</span></li>
+							<li><a href="contact-anna-de-la-paz.shtml" rel="bookmark">Spanish Dance</a><span>,</span></li>
+							<li><a href="contact-anna-de-la-paz.shtml" rel="bookmark">Spanish dance performer NY</a><span>,</span></li>
+							<li><a href="http://www.facebook.com/pages/Anna-de-la-Paz-Spanish-Dance/109085825802387" rel="bookmark">Anna de la Paz Facebook</a><span>,</span></li>
+							<li><a href="http://www.youtube.com/annadelapazdance" rel="bookmark">Anna de la Paz YouTube</a><span>,</span></li>
+							<li><a href="http://www.linkedin.com/in/spanishdance" rel="bookmark">Anna de la Paz LinkedIn</a><span>,</span></li>
+						</ul>
+				</div>
+				
+			</div> <!-- End Footer -->
+		
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

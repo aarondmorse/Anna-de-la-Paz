@@ -1,0 +1,298 @@
+﻿<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <title></title>
+  </head>
+  <body>
+    <div class="outerwrap">
+      <div class="innerwrap">
+        <!-- header include -->
+        <!--#include file="inc/header.shtml"-->
+        <!-- end header include -->
+        <div class="content">
+          <div class="section">
+            <h2>Spanish Dance Classes in Nyack, NY</h2>
+            <p>
+            <strong>Adult Level I:</strong> This is an introduction to Flamenco rhythm and technique. No experience is necessary!
+            There is an emphasis on basic footwork, (zapateado), arm movements (braceo), hand movements (flores) and proper body
+            alignment. This class typically learns choreography in the Tangos rhythm and/or the traditional dance from Sevilla, the
+            Sevillanas. 
+            <!-- <a href="register-spanish-dance-classes-NY.shtml" title="Register">Register</a>--></p>
+            <p>
+            <strong>Adult Level II:</strong> Continuing with the foundation achieved from Level I, this class works at a faster
+            pace and explores more complex rhythms such as Alegrias, Bulerias, and/or Fandangos. 
+            <!-- <a href="register-spanish-dance-classes-NY.shtml" title="Register">Register</a>--></p>
+            <p>
+            <strong>Children&#39;s Flamenco:&#160;</strong>Girls and boys ages 9-12 will get to know Flamenco rhythms and
+            technique.&#160; This is an introductory class and features footwork, armwork, castanets and choreography.&#160;
+            <!-- <a href="register-spanish-dance-classes-NY.shtml" title="Register">Register</a>--></p>
+            <p>
+            <strong>Castanets:</strong> Castanets are percussive instruments used to accompany folkloric and classical Spanish
+            dances. This is an introductory class and teaches the basic toques, or ways of striking the castanets, and
+            progressively incorporates dance movements as well. 
+            <!-- <a href="register-spanish-dance-classes-NY.shtml" title="Register">Register</a>--></p>
+            <p>
+            <strong>Adult Level III:</strong> This class is by invitation only. More advanced students enjoy perfecting
+            choreographies studied in the different classes, adding more layers to the intricate, and exciting movements.</p>
+            <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
+            <h2 class="prependtop">Schedule</h2>
+            <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Winter 2018 Session</h3>
+            <p style="margin-top: 0;">Jan. 10 - Mar. 23, 2018 (* no classes the week of Feb 19th)</p>
+            <br />
+            <table style="width: 90%">
+              <tr>
+                <td class="classtitle">
+                <strong>Location:</strong>
+                <br />Helen Hayes Studios
+                <br />142 Main St.
+                <br />Nyack, NY</td>
+                <!--<td width="50%">
+                You may register online and then send your check payable to:<br>
+                <strong>Anna de la&nbsp;Paz</strong><br>
+                <strong>PO Box 519</strong><br>
+                <strong>Nyack, NY 10960 </strong><br>
+            </td>-->
+              </tr>
+            </table>
+            <br />
+            <br />
+            <table id="classsch" cellspacing="2em">
+              <tr>
+                <th colspan="2">Adult Classes</th>
+              </tr>
+              <tr>
+                <td class="classtitle">Level I: Fridays</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                  <input type="hidden" name="cmd" value="_s-xclick" /> 
+                  <input type="hidden" name="hosted_button_id" value="9VLT6PDEN37J8" /> 
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
+                  alt="PayPal - The safer, easier way to pay online!" /> 
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
+                </td>
+              </tr>
+              <tr>
+                <td>12:30 - 1:30 pm</td>
+                <td>Cost: $150</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="date">&#160;</td>
+              </tr>
+              <tr>
+                <td class="classtitle">Level II: Wednesdays</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                  <input type="hidden" name="cmd" value="_s-xclick" /> 
+                  <input type="hidden" name="hosted_button_id" value="5W2WQ4WB4NKXY" /> 
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
+                  alt="PayPal - The safer, easier way to pay online!" /> 
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
+                </td>
+              </tr>
+              <tr>
+                <td width="426">11:00 am - 12:00 pm</td>
+                <td width="93">Cost: $150</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="date">&#160;</td>
+              </tr>
+              <tr>
+                <td class="classtitle">Castanets: Fridays</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="YBLUZB2GHRGJE">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                </td>
+              </tr>
+              <tr>
+                <td width="426">12:00 - 12:30 pm</td>
+                <td width="93">Cost: $80</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="date">&#160;</td>
+              </tr>
+              <tr>
+                <td class="classtitle">Castanets: Wednesdays</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="MMRU3LJXEBUZ8">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                </td>
+              </tr>
+              <tr>
+                <td width="426" class="">10:30 - 11:00 am</td>
+                <td width="93">Cost: $80</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="date">&#160;</td>
+              </tr>
+              <tr>
+                <td width="426" class="classtitle">* Level I + Castanets</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="NVYWW7WL42MJ4">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                </td>
+              </tr>
+              <tr>
+                <td>&#160;</td>
+                <td width="93">Cost: $200</td>
+              </tr>
+              <tr>
+                <td colspan="2">&#160;</td>
+              </tr>
+              <tr>
+                <td width="426" class="classtitle">* Level II + Castanets</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick" /> 
+                  <input type="hidden" name="hosted_button_id" value="8FQA454S48A72" /> 
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
+                  alt="PayPal - The safer, easier way to pay online!" /> 
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
+                </td>
+              </tr>
+              <tr>
+                <td>&#160;</td>
+                <td width="93">Cost: $200</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="date">&#160;</td>
+              </tr>
+              <tr>
+                <td class="classtitle">Level III (by invitation only)</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick" /> 
+                  <input type="hidden" name="hosted_button_id" value="CVXCEW7UK9EDE" /> 
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
+                  alt="PayPal - The safer, easier way to pay online!" /> 
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
+                </td>
+              </tr>
+              <tr>
+                <td width="426">Choreography and Advanced Technique:
+                <br />Wednesdays 9:00 - 10:30 am</td>
+                <td width="93">Cost: $200</td>
+              </tr>
+              <tr>
+                <td colspan="2">&#160;</td>
+              </tr>
+              <tr>
+                <td width="426" class="classtitle">* Level III + Castanets</td>
+                <td width="93">
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="LBKRSAFS2B5X8">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>Cost: $250</td>
+              </tr>
+              <tr>
+                <td colspan="2">&#160;</td>
+              </tr>
+              <tr>
+                <th colspan="2">Youth Classes</th>
+              </tr>
+              <tr>
+                <td class="classtitle">Classical Spanish Dance/Flamenco</td>
+                <td>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick" /> 
+                  <input type="hidden" name="hosted_button_id" value="LLANNVDYP5XQJ" /> 
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
+                  alt="PayPal - The safer, easier way to pay online!" /> 
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
+                </td>
+              </tr>
+              <tr>
+                <td width="426" class="">Thursdays 4:15 - 5:15 pm</td>
+                <td width="93">Cost: $150</td>
+              </tr>
+              <!-- 
+                                  <tr>
+                                        <td class="classtitle" colspan="2">Mommy and Me Flamenco</td>
+                                  </tr>
+
+                                  <tr>
+                                        <td width="426" class="date">Fridays: 10:00 AM - 11:00 AM</td>
+
+                                        <td width="93">Pricing and Registration at www.balbachschoolofdance.com</td>
+                                  </tr>
+                                        -->
+              <!-- 
+                                  <tr>
+                                        <td class="classtitle" colspan="2">&nbsp;</td>
+                                  </tr>           
+                                  <tr>
+                                        <td class="classtitle" colspan="2">&nbsp;</td>
+                                  </tr>
+
+                                  <tr>
+                                        <td colspan="2" class="date"><span class="classtitle">Choreography (by invitation only)</span></td>
+                                  </tr>
+                                  -->
+            </table>
+          </div>
+          <!-- aside div include -->
+          <!--#include file="inc/aside.shtml"-->
+          <!-- end aside div include -->
+          <!-- footer include -->
+          <!--#include file="inc/footer.shtml"-->
+          <!-- end footer include -->
+          <div id="tags">
+            <h3>Tags:</h3>
+            <ul>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">Spanish Dance Classes NY</a>
+                <span>,</span>
+              </li>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">dance classes NY</a>
+                <span>,</span>
+              </li>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">spanish dance instruction</a>
+                <span>,</span>
+              </li>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">dance classes nyack NY</a>
+                <span>,</span>
+              </li>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">dance classes Rockland County NY</a>
+                <span>,</span>
+              </li>
+              <li>
+                <a href="spanish-dance-classes-NY.shtml" rel="bookmark">dance classes Bergen County NJ</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- End Footer -->
+      </div>
+      <!-- End Content -->
+    </div>
+    <!-- End Innerwrap -->
+    <!--End Outerwrap -->
+    <!-- Google Analytics and JS -->
+  </body>
+</html>

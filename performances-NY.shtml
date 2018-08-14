@@ -1,0 +1,82 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				
+				<h2>Productions &amp; Performances</h2>
+				<p><b>Migraci&oacute;n</b><br />Anna de la Paz integrates the color and spectacle of Spanish dance with the excitement and magic of theater and live music. The production takes the audience on a journey in time throughout Spain and abroad. The show demonstrates how geography has impacted Spanish dance by exploring how dance is interpreted in the center of Spain versus the south of Spain; how the northern provincial dances are greatly influenced by northern European music and folklore, and how the dances emanating from the south have more Middle Eastern influences. If you would like to bring <strong>&ldquo;Migraci&oacute;n&rdquo;</strong> to your venue, <a href="contact-anna-de-la-paz-NY.shtml">contact Anna de la Paz</a>.</p>
+
+				<p>Three options:</p>
+				<ol>
+					<li>1. Anna de la Paz, two other dancers and two musicians</li>
+					<li>2. Anna de la Paz, two musicians</li>
+					<li>3. Anna de la Paz, one musician</li>
+				</ol>
+				<p><small>* Prices vary according to the number of artists participating in the production.</small></p> 
+										
+				<div class="galleryblock prependtop">
+				
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Go to Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_12_sm.jpg" alt="Anna de la Paz Spanish Dance Performances NY" width="90px" height="115px" /></a>
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Go to Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_13_sm.jpg" alt="Anna de la Paz Spanish Dance Performances NY" width="90px" height="115px" /></a>
+					<a class="noborder" href="gallery-ny.shtml" rel="bookmark" title="Go to Gallery"><img src="images/gallery/thumbs/gallery_AnnadelaPaz_14_sm.jpg" alt="Anna de la Paz Spanish Dance Productions NY" width="90px" height="115px" /></a>
+				
+				</div>
+
+			</div>
+
+			
+			<!-- aside div include -->
+				
+				<!--#include file="inc/aside.shtml"-->
+			
+			<!-- end aside div include -->
+			
+		
+		
+			<!-- footer include -->
+			<!--#include file="inc/footer.shtml"-->
+			<!-- end footer include -->
+				
+				<div id="tags">
+				<h3>Tags:</h3>
+						<ul>
+							<li><a href="performances-NY.shtml" rel="bookmark">Spanish dance</a><span>,</span></li>
+							<li><a href="performances-NY.shtml" rel="bookmark">Spanish dance performances NY</a><span>,</span></li>
+							<li><a href="performances-NY.shtml" rel="bookmark">dance performances NY</a><span>,</span></li>
+							<li><a href="performances-NY.shtml" rel="bookmark">dance productions NY</a><span>,</span></li>
+							<li><a href="performances-NY.shtml" rel="bookmark">Anna de la Paz</a><span>,</span></li>
+							<li><a href="performances-NY.shtml" rel="bookmark">Migracion</a></li>
+						</ul>
+				</div>
+				
+			</div> <!-- End Footer -->
+		
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

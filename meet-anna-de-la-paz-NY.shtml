@@ -1,0 +1,75 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				<h2 style="margin-bottom: 0">Meet Anna de la Paz: Q &amp; A</h2>
+				<p><img id="headshot" class="floatleft" src="images/annadelapaz_headshot.jpg" alt="Anna de la Paz Headshot" width="180px" height="251px" /></p>
+						
+				<h4 class="pushrgt prependtop">How did you become interested in Spanish dance?</h4>
+				<p>I grew up in Baltimore, MD, but my family is from Spain. My mother really wanted me to learn the dances of her culture and there was a phenomenal teacher at the Peabody Institute in Baltimore. Her name was Maria Morales, and I was truly lucky to start my training with such a masterful dancer and choreographer.</p> 
+
+				<h4 class="pushrgt">Where did you study?</h4>
+				<p>After studying with Mrs. Morales at the Peabody for nine years, I went to Madrid in 1994 for a year to continue my professional studies with Mariemma, La Tati, Tom&aacute;s de Madrid, Mar&iacute;a Magdalena and Pedro Azor&iacute;n. Upon my return to the United States, I studied ballet and modern dance at Towson University where I got my Bachelor of Fine Arts in Dance Performance, as well as a Bachelor of Arts in Spanish Literature. At the same time I studied Spanish dance with Carmen de Vicente in Alexandria, VA and I spent a semester at the University of New Mexico's celebrated flamenco and Spanish dance department.  I moved to New York in 1999 and studied with Gabriela Granados, Jos&eacute; Molina, La Meira, Mariano Parra and Jerane Michel.</p>
+
+				<h4 class="pushrgt">Why do you love Spanish dance?</h4>
+				<p>I am not sure if it is because I am Spanish, but I connect deeply with Spanish music. The variety of dances from Spain is extremely interesting and continually fascinates me.</p>
+
+				<h4 class="pushrgt">Where have you performed?</h4>
+				<p>I have performed at various venues including The Kennedy Center and Carnegie Hall. Upon moving to New York City in 1999, I began working with Gabriela Granados and the American Bolero Dance Company. With ABDC, I performed in the critically acclaimed production, Ol&eacute;! Ol&eacute;! Fin de Siglo, and I continue dancing with the company today.  I also perform as a freelance artist in Rockland County, dancing in theaters, schools and libraries.</p>
+
+				<h4 class="pushrgt">What are your favorite dances to teach and perform?</h4>
+				<p>I love to perform the classical dances because they incorporate elements of the various types of Spanish dances, such as flamenco and folkloric.  But, I love to teach flamenco in NY. Flamenco has so many layers to it, and as I teach, I learn.</p>
+
+				<h4 class="pushrgt">What else do you do besides dance?</h4>
+				<p style="margin-bottom: 0;">My three children and my husband are my life, and although motherhood has occupied much of my time, it has also brought a depth to my dancing that I may not have been able to achieve without that experience.</p>
+				
+			</div>
+			
+			<!-- aside div include -->
+				
+			<!--#include file="inc/aside.shtml"-->
+
+			<!-- end aside div include -->
+
+
+
+			<!-- footer include -->
+			<!--#include file="inc/footer.shtml"-->
+			<!-- end footer include -->
+
+				<div id="tags">
+				  <h3>Tags:</h3>
+				  <ul style="margin-bottom: 0;">
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Meet Anna de la Paz</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">meet Spanish dancer NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Spanish dance performer NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Spanish dance instructor NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">dance performance NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">flamenco NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Maria Morales</a></li>
+				  </ul>
+				</div>
+					
+			</div><!-- End Footer -->
+			
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

@@ -1,0 +1,60 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				<h2>In the News</h2>
+				
+					<p>Coming Soon</p> 
+				
+				<h2 class="prependtop">Press Releases</h2>
+				
+				<p>Coming Soon</p>
+			</div>
+			
+			<!-- aside div include -->
+				
+				<!--#include file="inc/aside.shtml"-->
+			
+			<!-- end aside div include -->
+			
+		
+		
+			  <!-- footer include -->
+                <!--#include file="inc/footer.shtml"-->
+              <!-- end footer include -->
+
+				<div id="tags">
+				<h3>Tags:</h3>
+						<ul>
+							<li><a href="press-room-ny.shtml" rel="bookmark">Anna de la Paz</a><span>,</span></li>
+							<li><a href="press-room-ny.shtml" rel="bookmark">Anna de la Paz pressroom</a><span>,</span></li>
+							<li><a href="press-room-ny.shtml" rel="bookmark">Anna de la Paz news NY</a><span>,</span></li>
+							<li><a href="press-room-ny.shtml" rel="bookmark">Spanish Dance news NY</a><span>,</span></li>
+							<li><a href="press-room-ny.shtml" rel="bookmark">dance performance press release NY</a><span>,</span></li>
+							<li><a href="press-room-ny.shtml" rel="bookmark">dance production press release NY</a></li>
+						</ul>
+				</div>
+				
+			</div> <!-- End Footer -->
+		
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

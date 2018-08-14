@@ -1,0 +1,69 @@
+<!-- HEAD include -->
+<!--#include file="inc/head.shtml"-->
+<!-- end HEAD include -->
+
+<body>
+
+<div class="outerwrap">   
+	<div class="innerwrap">
+		
+		<!-- header include -->
+		<!--#include file="inc/header.shtml"-->
+		<!-- end header include -->
+		
+		<div class="content">
+			<div class="section">
+				<h2 style="margin-bottom: 0">Frequently Asked Questions</h2>
+					
+				<h4 class="pushrgt prependtop">What should I wear to class?</h4>
+				<p>I prefer my beginner students to come to class in workout/yoga clothes, and not wear a flamenco skirt at first.  It is important for me to see the alignment of the body to ensure proper technique and prevent any type of injury.  Skirts make that a little more challenging.</p> 
+
+				<h4 class="pushrgt">Do I need to buy flamenco shoes?</h4>
+				<p>If my beginner students do not want to invest in a pair of flamenco shoes which can be costly, I recommend purchasing character shoes.  My students can receive a discount on character shoes at Kiddie Shoes in Rockland Plaza, 70 E. Rte 59, Nanuet, NY.</p>
+
+				<h4 class="pushrgt">Where can I purchase flamenco dance gear?</h4>
+				<p>For flamenco skirts, shoes, castanets and accessories, I recommend <a href="http://www.flamecoexport.com" target="_blank">www.flamecoexport.com</a></p>
+        <p>Castanets: I recommend the <a href="http://www.flamencoexport.com/flamenco-best-sellers/castanets/semi-professional-castanets.html" target="_blank">Pandero number 5 castanets</a>.</p>
+
+				<h4 class="pushrgt">Directions to the studio.</h4>
+				<p>Helen Hayes Studios are located at 142 Main Street.  The entrance is in the rear of the building and has an orange awning that says "Helen Hayes Youth Theatre" above it.  The entrance can be accessed from the parking lot that is adjacent to the Panda Garden Chinese take-out restaurant.</p>
+
+			</div>
+			
+			<!-- aside div include -->
+				
+			<!--#include file="inc/aside.shtml"-->
+
+			<!-- end aside div include -->
+
+
+
+			<!-- footer include -->
+			<!--#include file="inc/footer.shtml"-->
+			<!-- end footer include -->
+
+				<div id="tags">
+				  <h3>Tags:</h3>
+				  <ul style="margin-bottom: 0;">
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Meet Anna de la Paz</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">meet Spanish dancer NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Spanish dance performer NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Spanish dance instructor NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">dance performance NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">flamenco NY</a><span>,</span></li>
+					<li><a href="meet-anna-de-la-paz.shtml" rel="bookmark">Maria Morales</a></li>
+				  </ul>
+				</div>
+					
+			</div><!-- End Footer -->
+			
+		</div> <!-- End Content -->
+		
+	</div> <!-- End Innerwrap -->
+</div> <!--End Outerwrap -->
+
+<!-- Google Analytics and JS -->
+</body>
+</html>
+
+

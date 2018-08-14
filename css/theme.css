@@ -1,0 +1,542 @@
+/* VERSION 2 */
+
+/* ------------------------------------------------------- */
+/* Basic DOM Elements */	
+/* ------------------------------------------------------- */
+
+body{
+	font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-size: 62.5%; /* 10px */
+	background-color: #444;
+	}
+	
+div.outerwrap{
+	margin: 0 28% 0 auto;
+	width: 101.6em;
+	background: url(../images/lftside_dress_bg.png) no-repeat 4.5em 12.4em;
+	}
+	
+div.innerwrap{
+	position: relative;
+	padding-bottom: 15px;
+	background-color: #000;
+	left: 30em;
+	width: 71.6em;
+	}
+	
+div.header{
+	height: 36em;
+	background: url(../images/head_bg.jpg) #000 no-repeat 0 0;
+	}	
+	
+div.section{
+	width: 44.8em;
+	float: left;
+	}
+	
+div.aside{
+	float: right;
+	width: 21.9em;
+	padding: 0px 1em;
+	}
+	
+div.footer{
+	width: 44.8em;
+	clear: left;
+	}						
+	
+/* ------------------------------ */
+/* @Font For Interstate*/
+/* ------------------------------ */
+	
+
+@font-face { /* declare fonts */
+	font-family: "Mistral";
+	src: url("../fonts/mistralstd.eot");
+	src: local("Mistral Std Roman"), local("MistralStd"),
+		url("../fonts/mistralstd.woff") format("woff"),
+		url("../fonts/MistralStd.otf") format("opentype"),
+		url("../fonts/mistralstd.svg#Mistral") format("svg");
+		}
+			
+
+
+	
+
+/* ------------------------------------------------------- */
+/* Header*/	
+/* ------------------------------------------------------- */
+
+h1#logoscreen{
+	position: absolute;
+	top:12.5em;
+	left:42.3em;
+	display: inline;
+	width: 24.3em;
+	height: 5.6em;
+	}
+	
+h1#logoscreen a{
+	display: block;
+	width: 24.3em;
+	height: 5.6em;
+	background: url(../images/logo_screen.png) no-repeat 0 0;
+	}
+	
+	
+/* ------------------------------------------------------- */
+/* Section*/	
+/* ------------------------------------------------------- */
+
+
+div.section{
+	margin-bottom: 1.5em;
+	}			
+	
+div.section h2 { 
+	position: relative;
+	top: -0.2em;
+	left: -.25em;
+	width: 12.5em; 
+	padding: 0 .5em;
+	font-family: 'Mistral', Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 3.2em; 
+	line-height: 1.4em;
+	color: #fff;
+	background-color: rgb(196,36,2);
+	}
+	
+div.section h3 { 
+	font-weight: normal;
+	font-size: 2em; 
+	line-height: 1.4em;
+	color: #DDD;
+	}
+	
+div.section h4 { 
+	font-weight: normal;
+	font-size: 1.5em; 
+	line-height: 1.4em;
+	color: #DDD;
+	}		
+	
+
+div.section p{
+	margin: 1.5em;
+	padding-left: 1em;
+	font-size: 1.25em;
+	line-height: 1.8em;
+	letter-spacing: .0155em;
+	color: #ddd;
+	}
+	
+div.section ul p, div.section ol p{
+	font-size:1em;
+	margin-left:0;
+	margin-right:0;
+	padding:0;
+}
+
+div.section a:link, div.section a:visited{
+	color: #ddd;
+	text-decoration: none;
+	border-bottom: .125em dotted #ddd;
+	}
+	
+div.section a:hover{
+	color: rgb(127,1,38);
+	}		
+	
+div.section ol, div.section ul{
+	margin: 1.5em 1.5em 1.5em 4em;
+	font-size: 1.2em;
+	line-height: 1.8em;
+	letter-spacing: .0155em;
+	color: #ddd;
+	}
+
+div.section ol ul{
+	list-style:disc; 
+	margin:0 0 1.5em 1.5em
+}
+
+div.section ol ul p{
+	margin-top:0;
+}
+
+div.section ol{
+	list-style:decimal; 
+}
+
+div.section ol > li{
+	margin-bottom: 1.5em;
+}
+	
+div.section ol ul, div.section ul ul{
+	font-size:1em;
+}
+	
+			
+div.section blockquote{
+	font-family: Georgia, Times, Times New Roman, serif;
+	font-style: oblique;
+	margin: 1.5em;
+	padding-left: .5em;
+	font-size: 1.5em;
+	line-height: 1.8em;
+	letter-spacing: .0155em;
+	color: #ddd;
+	}
+	
+div.section hr{
+	color: #000;
+	height: .0125em;
+	width: 40em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	}
+	
+div.section table{
+	font-size: 1.25em;
+	line-height: 1.8em;
+	letter-spacing: .0155em;
+	margin-left: 1.75em;
+	color: #ddd;
+	}
+	
+div.section table th{
+	text-align: left;
+	}
+	
+div.section td.classtitle{
+	background-color: #111;
+	padding-left: .3em;
+	}
+	
+div.section td.date{
+	width: 25em;
+	padding: .5em .3em;;
+	}
+	
+						
+div.galleryblock{
+	margin-left: 3em;
+	}
+	
+div.galleryblock img{
+	padding-right: 20px;
+	}	
+			
+ul#photolist li{
+	display: inline;
+	}
+	
+ul#photolist img{
+	border: .0125em solid  transparent;
+	margin-right: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+ul#photolist img:hover{
+	border: .0125em solid #FFF;
+	}
+		
+img#headshot{
+	padding: 0 1.5em .5em 0;
+}
+
+	
+/* ------------------------------------------------------- */
+/* aside*/	
+/* ------------------------------------------------------- */			
+	
+div.aside h3{
+	font-family: 'Mistral', Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 2.5em; 
+	line-height: 1.2em;
+	color: rgb(196,36,2);
+	margin-bottom: .25em;
+	}
+	
+#mailinglist{
+	position: relative;
+	min-height: 2.5em;
+	}
+	
+form#mail-field{
+	top:0px;
+	left: 0px;
+	}		
+	
+input#mail-button{
+	position: relative;
+	top:.4em;
+	left: .4em;	
+	}
+	
+input#text{
+	font-size:1em; 
+	padding:.4em; 
+	border:.1em solid #000; 
+	color:#888;
+	}	
+	
+input#mail-button:active{
+	position: relative;
+	top:.5em;
+	}
+	
+div.aside ol.events{
+	color: #888;
+	font-size: 1.125em;
+	line-height: 1.5em;
+	width: 18em;
+	}
+
+div.aside ol.events a{
+	color: #888;
+}
+
+div.aside span{
+	display: block;
+	}
+	
+div.aside span.eventtitle{
+	font-weight: bold;
+  font-size: 12px;
+  color: #aaa
+	}	
+	
+div.aside ol li{
+	margin-bottom: 1.5em;
+	}						
+		
+table#classsch a{
+	background-color: #222;
+	padding: 0 1.25em;
+	border: 0 !important;
+	float: right;
+	}
+				
+		
+/* ------------------------------------------------------- */
+/* Nav*/	
+/* ------------------------------------------------------- */
+
+div.nav{
+	font-size: 1.2em;
+	font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 1.8em;
+	letter-spacing: .0125em;
+	}
+
+div.nav a:link, div.nav a:visited{
+	color: rgb(255,255,255);
+	text-decoration: none;
+	}
+	
+div.nav a:hover{
+	color: rgb(127,1,38);
+	}
+	
+div.nav a:active{
+	position: relative;
+  	top: .1em;
+	}			
+
+/* ------------------------------------------------------- */
+/* Footer*/	
+/* ------------------------------------------------------- */			
+
+	
+ul#socialnet{
+	float: left;
+	margin-left: 3em;
+	margin-bottom: 3.5em;
+	margin-top: 1.5em;
+	}
+	
+#socialnet li{
+	padding-right: 2em;
+	float: left; 
+	}			
+
+li#youtube{
+	width: 7.7em;
+	height: 4.3em;
+	}
+	
+li#youtube a{
+	display: block;
+	width: 7.7em;
+	height: 4.3em;
+	background: url(../images/social_sprite.gif) no-repeat 0 0;
+	}
+	
+li#facebook{
+	width: 8.3em;
+	height: 4.3em;
+	}
+	
+li#facebook a{
+	display: block;
+	width: 8.3em;
+	height: 4.3em;
+	background: url(../images/social_sprite.gif) no-repeat -110px 0;
+	}
+	
+li#linkedin{
+	width: 9.0em;
+	height: 4.3em;
+	}
+	
+li#linkedin a{
+	display: block;
+	width: 9.0em;
+	height: 4.3em;
+	background: url(../images/social_sprite.gif) no-repeat -220px 0;
+	}
+	
+ul#globalnav{
+	padding-left: 2.3em;
+	margin-bottom: 1.5em;
+	}
+	
+ul#globalnav li{
+	display: inline;
+	padding: 0 .8em;
+	}	
+	
+ul#globalnav a:link, ul#globalnav a:visited{
+	font-size: 1.1em;
+	color: #666;
+	text-decoration: none;
+	}
+	
+ul#globalnav a:hover{
+	color: #777;
+	text-decoration: underline; 
+	}	
+
+div#copyright{
+	margin-left: 3.1em;
+	margin-bottom: 1.5em;
+	}									
+
+div#copyright p{
+	font-size: 1em;
+	color: #555;
+	}
+	
+div#copyright a:link, div#copyright a:visited{
+	color: #888;
+	text-decoration: none;
+	}
+	
+div#copyright a:hover{
+	color: #999;
+	text-decoration: underline;
+	}			
+
+div#tags{
+	position: relative;
+	margin-left: 2.8em;
+	font-size: 1.1em;
+	}
+
+div#tags li{
+	display: inline;
+	}	
+	
+div#tags a:link, div#tags a:visited{
+	color: #222;
+	text-decoration: none;
+	}
+	
+div#tags a:hover{
+	color: #333;
+	text-decoration: underline;
+	}		
+	
+div#tags span{
+	color: #222;
+	}	
+	
+div#tags h3, div#tags ul{
+	color: #222;
+	display: inline;
+	}									
+											
+
+/* ------------------------------------------------------- */
+/* Custom Classes */	
+/* ------------------------------------------------------- */
+
+.pushrgt{
+	margin-left: 21px;
+	}
+
+span.author{
+	display: block;
+	color: #ddd;
+	font-size: 1.1em;
+	line-height: 1.2em;
+	margin-left: 32px;
+	}
+
+.italic{
+	font-style: oblique;
+	}
+
+.prependtop{
+	margin-top: 1.3em;
+	}
+	
+.prependbottom{
+	margin-top: 1.3em;
+	}	
+
+li.last{
+	border-right: 0;
+	}
+	
+li.line{	
+	border-right: .1em solid #666;
+	}		
+
+.floatleft{
+	float: left;
+	}
+	
+
+.floatright{
+	float: right;
+	}
+	
+
+.rtpad{
+	padding-right: .5em;	
+	}		
+	
+.clear{
+	clear: both;
+	}	
+
+.hiddentext{
+	text-indent: -9999px;
+	overflow: hidden;
+	}
+
+.noborder{
+	border: 0px !important;
+	}
+	
+small{
+	font-size:smaller;
+	}	
+	
+	

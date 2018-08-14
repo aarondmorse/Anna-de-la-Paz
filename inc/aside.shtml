@@ -1,0 +1,61 @@
+<style type="text/css">
+<!--
+.style9 {font-size: 15px; color: #CCCCCC; }
+.style11 {
+  font-size: 15px;
+  color: #CCCCCC;
+  font-weight: bold;
+  font-style: italic;
+}
+-->
+</style>
+<p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+<div class="aside">
+  <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+<div class="nav">
+	<ul style="margin-bottom: 0">
+	  <li><a href="index.shtml" rel="bookmark">Home</a></li>
+	  <li><a href="meet-anna-de-la-paz-ny.shtml" rel="bookmark">Meet Anna de la Paz</a></li>
+	  <li><a href="spanish-dance-classes-ny.shtml" rel="bookmark">Spanish Dance Classes</a></li>
+	  <li><a href="performances-ny.shtml" rel="bookmark">Productions</a></li>
+	  <li><a href="arts-in-education-ny.shtml" rel="bookmark">Arts in Education</a></li>
+	  <li><a href="gallery-ny.shtml" rel="bookmark">Gallery</a></li>
+    <li><a href="anna-de-la-paz-faq-NY.shtml" rel="bookmark">FAQs</a></li>
+	  <li><a href="press-room-ny.shtml" rel="bookmark">Press Room</a></li>
+	  <li><a href="contact-anna-de-la-paz-NY.shtml" rel="bookmark">Contact</a></li>
+    </ul>
+					
+  </div> <!-- End Nav -->
+				
+  <h3 class="prependtop">Join My Email List</h3>
+				
+  <!-- BEGIN: Constant Contact Basic Opt-in Email List Form -->
+
+  <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+<div id="mailinglist">
+   	<form action="http://visitor.constantcontact.com/d.jsp" method="post" name="ccoptin" target="_blank" id="mail-field" style="margin-bottom: 0">
+	  <input type="hidden" name="m" value="1103356980909" />
+	  <input type="hidden" name="p" value="oi" />
+	  <input id="text" type="text" name="ea" size="18" value="Get News By Email" onfocus="if (this.value=='Get News By Email'){ (this.value='');}" onblur="if (this.value==''){ (this.value='Get News By Email');}" />
+						
+					
+	  <input id="mail-button" type="image" name="go" value="Submit" class="submit" src="images/btnSubmit.png" />
+    </form>		
+  </div><!-- END: Constant Contact Basic Opt-in Email List Form -->
+
+				
+  <h3 class="prependtop">Upcoming Events</h3>
+  <ol class="events">
+  <li>
+    <span class="eventtitle">Flamenco and Latin-American Music and Dance Workshop</span>
+    August 20-24th, 9am-12pm<br>
+    Rockland Conservatory of Music<br>
+    45 South Main Street, Pearl River, NY  
+  </li>
+  <li>
+    <span class="eventtitle">Concert Tour in the Canary Islands, Spain</span>
+    December 17-22, 2018
+  </li>
+  </ol>
+</div> 
+<!-- End aside -->

@@ -1,0 +1,17 @@
+<div class="footer">
+	<ul id="socialnet">
+		<li id="youtube"><a class="hiddentext" href="http://www.youtube.com/annadelapazdance" rel="bookmark" target="_blank">YouTube Channel</a></li>
+		<li id="facebook"><a class="hiddentext" href="http://www.facebook.com/pages/Anna-de-la-Paz-Spanish-Dance/109085825802387" rel="bookmark" target="_blank">Like Anna de la Paz Spanish Dance on Facebook</a></li>
+		<li id="linkedin"><a class="hiddentext" href="http://www.linkedin.com/in/spanishdance" rel="bookmark" target="_blank">Connect on LinkedIn</a></li>
+	</ul>
+
+	<ul class="clear" id="globalnav">
+	  <li class="line"><a href="site-map.shtml" rel="contents">Site Map</a></li>
+	  <li class="line"><a href="privacy-policy.shtml" rel="copyright">Privacy Policy</a></li>
+	  <li class="last"><a href="terms-of-service.shtml" rel="copyright">Terms of Service</a></li>
+  </ul>
+
+<p style="margin-bottom: 0;">&nbsp;</p>
+<div id="copyright">
+	<p style="margin-bottom: 0">&copy; <script type="text/javascript" src="js/getyear.js" ></script> Anna de la Paz. <br> <a title="Website Maintenance and Development by Morse Code and Design" href="http://www.getmorsecoded.com/" rel="author">Website Maintenance and Development by Morse Code and Design</a></p>
+</div>
