@@ -1,5 +1,4 @@
 <style type="text/css">
-<!--
 .style9 {font-size: 15px; color: #CCCCCC; }
 .style11 {
   font-size: 15px;
@@ -7,8 +6,8 @@
   font-weight: bold;
   font-style: italic;
 }
--->
 </style>
+
 <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
 <div class="aside">
   <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
@@ -24,11 +23,11 @@
 	  <li><a href="press-room-ny.shtml" rel="bookmark">Press Room</a></li>
 	  <li><a href="contact-anna-de-la-paz-NY.shtml" rel="bookmark">Contact</a></li>
     </ul>
-					
+
   </div> <!-- End Nav -->
-				
+
   <h3 class="prependtop">Join My Email List</h3>
-				
+
   <!-- BEGIN: Constant Contact Basic Opt-in Email List Form -->
 
   <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
@@ -37,25 +36,42 @@
 	  <input type="hidden" name="m" value="1103356980909" />
 	  <input type="hidden" name="p" value="oi" />
 	  <input id="text" type="text" name="ea" size="18" value="Get News By Email" onfocus="if (this.value=='Get News By Email'){ (this.value='');}" onblur="if (this.value==''){ (this.value='Get News By Email');}" />
-						
-					
+
+
 	  <input id="mail-button" type="image" name="go" value="Submit" class="submit" src="images/btnSubmit.png" />
-    </form>		
+    </form>
   </div><!-- END: Constant Contact Basic Opt-in Email List Form -->
 
-				
+
   <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
   <li>
     <span class="eventtitle">Flamenco and Latin-American Music and Dance Workshop</span>
     August 20-24th, 9am-12pm<br>
     Rockland Conservatory of Music<br>
-    45 South Main Street, Pearl River, NY  
+    45 South Main Street, Pearl River, NY
+  </li>
+  <li>
+    <span class="eventtitle">Northampton Community Music Center</span>
+    <span class="eventtitle">Ida y Vuelta Ensemble</span>
+    November 17, 7pm<br>
+    $20 General Admission, $15 Students and Seniors<br>
+    413-585-0001<br>
+    139 South Street, Northampton, MA 01060
+  </li>
+  <li>
+    <span class="eventtitle">Overtures Concert</span>
+    <span class="eventtitle">Ida y Vuelta Ensemble</span>
+    December 1, 7pm<br>
+    Free Admission, Reservations Required<br>
+    845-356-1522<br>
+    <strong>Rockland Conservatory of Music</strong><br>
+    45 South Main Street, Pearl River, NY
   </li>
   <li>
     <span class="eventtitle">Concert Tour in the Canary Islands, Spain</span>
     December 17-22, 2018
   </li>
   </ol>
-</div> 
+</div>
 <!-- End aside -->
