@@ -28,19 +28,26 @@
 
   <h3 class="prependtop">Join My Email List</h3>
 
-  <!-- BEGIN: Constant Contact Basic Opt-in Email List Form -->
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+  	#mc_embed_signup{width:100%;}
+  	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+  	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+  <div id="mc_embed_signup">
+  <form action="https://annadelapaz.us10.list-manage.com/subscribe/post?u=e54116d44bc17923379afdb5c&amp;id=d1ecc95421" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
 
-  <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
-<div id="mailinglist">
-   	<form action="http://visitor.constantcontact.com/d.jsp" method="post" name="ccoptin" target="_blank" id="mail-field" style="margin-bottom: 0">
-	  <input type="hidden" name="m" value="1103356980909" />
-	  <input type="hidden" name="p" value="oi" />
-	  <input id="text" type="text" name="ea" size="18" value="Get News By Email" onfocus="if (this.value=='Get News By Email'){ (this.value='');}" onblur="if (this.value==''){ (this.value='Get News By Email');}" />
+  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e54116d44bc17923379afdb5c_d1ecc95421" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+  </form>
+  </div>
 
-
-	  <input id="mail-button" type="image" name="go" value="Submit" class="submit" src="images/btnSubmit.png" />
-    </form>
-  </div><!-- END: Constant Contact Basic Opt-in Email List Form -->
+  <!--End mc_embed_signup-->
 
 
   <h3 class="prependtop">Upcoming Events</h3>

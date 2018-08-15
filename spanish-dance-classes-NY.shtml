@@ -113,19 +113,19 @@
                   <tr>
                     <td><strong>Castanets</strong><br>10:00 - 10:30am</td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="R4XESGBR7VRBJ">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $100</span>
+                      <span>Cost: $90</span>
                     </td>
                   </tr>
                   <tr>
                     <td><strong>Dance</strong><br>10:30 - 11:30am</td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="9VLT6PDEN37J8">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -137,7 +137,7 @@
                   <tr>
                     <td><strong>Dance + Castanets</strong></td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="Y7JP9YG5UPLKN">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -205,7 +205,7 @@
                   <tr>
                     <td><strong>Castanets</strong><br>10:30 - 11:00am</td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="QNQKDV5WKYJYG">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -217,7 +217,7 @@
                   <tr>
                     <td><strong>Dance</strong><br>9:00 - 10:30am</td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="455SS8D57GWKG">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -251,7 +251,7 @@
                   <tr>
                     <td><strong>Choreography</strong><br>12:00 - 1:00pm</td>
                     <td class="center-align buy-cell">
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="65WGGSGV2KW4S">
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">

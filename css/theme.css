@@ -594,3 +594,19 @@ div.section table.schedule-grid tr:nth-child(2n) td{
 .right-align{
 	text-align: right
 }
+
+#mc_embed_signup form{
+	margin-top: 25px;
+	text-align: left !important;
+	padding: 0 !important
+}
+
+#mc_embed_signup input.email{
+	width: 155px !important;
+	font-size: 12px !important;
+}
+
+#mc_embed_signup .button{
+	background-color: rgb(196,36,2) !important;
+	padding: 0 5px !important
+}
