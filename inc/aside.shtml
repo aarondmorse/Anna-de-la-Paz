@@ -52,11 +52,18 @@
 
   <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
-  <li>
+  <!-- li>
     <span class="eventtitle">Flamenco and Latin-American Music and Dance Workshop</span>
     August 20-24th, 9am-12pm<br>
     Rockland Conservatory of Music<br>
     45 South Main Street, Pearl River, NY
+  </li -->
+  <li>
+    <span class="eventtitle">Music and Dances of Spain</span>
+    October 18th, 7PM<br>
+    Grace Episcopal Church<br>
+    130 First Avenue, Nyack, NY 10960<br>
+    Free Admission
   </li>
   <li>
     <span class="eventtitle">Northampton Community Music Center</span>
@@ -70,7 +77,7 @@
     <span class="eventtitle">Overtures Concert</span>
     <span class="eventtitle">Ida y Vuelta Ensemble</span>
     December 1, 7pm<br>
-    Free Admission, Reservations Required<br>
+    $20 Admission, Reservations Required<br>
     845-356-1522<br>
     <strong>Rockland Conservatory of Music</strong><br>
     45 South Main Street, Pearl River, NY
