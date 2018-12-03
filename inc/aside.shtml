@@ -52,41 +52,36 @@
 
   <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
-  <!-- li>
-    <span class="eventtitle">Flamenco and Latin-American Music and Dance Workshop</span>
-    August 20-24th, 9am-12pm<br>
-    Rockland Conservatory of Music<br>
-    45 South Main Street, Pearl River, NY
-  </li -->
-  <li>
-    <span class="eventtitle">Music and Dances of Spain</span>
-    October 18th, 7PM<br>
-    Grace Episcopal Church<br>
-    130 First Avenue, Nyack, NY 10960<br>
-    Free Admission
-  </li>
-  <li>
-    <span class="eventtitle">Northampton Community Music Center</span>
-    <span class="eventtitle">Ida y Vuelta Ensemble</span>
-    November 17, 7pm<br>
-    $20 General Admission, $15 Students and Seniors<br>
-    413-585-0001<br>
-    139 South Street, Northampton, MA 01060
-  </li>
-  <li>
-    <span class="eventtitle">Overtures Concert</span>
-    <span class="eventtitle">Ida y Vuelta Ensemble</span>
-    December 1, 7pm<br>
-    $20 Admission, Children under 18 are Free<br>
-    Reservations Required<br>
-    845-356-1522<br>
-    <strong>Rockland Conservatory of Music</strong><br>
-    45 South Main Street, Pearl River, NY
-  </li>
-  <li>
-    <span class="eventtitle">Concert Tour in the Canary Islands, Spain</span>
-    December 17-22, 2018
-  </li>
+    <li>
+      <span class="eventtitle">Concert Tour in the Canary Islands, Spain</span>
+      December 17-22, 2018
+    </li>
+    <li>
+        <span class="eventtitle">Música y Danza a Orillas de España</span>
+        December 22, 2018 at 8:30pm<br>
+        Tickets: 15 euros<br>
+        <a href="https://entrees.es/event/MUSICA-Y-DANZA-A-ORILLAS-DE-ESPAÑA-tickets/2865/session/29538" target="_blank">Purchase Tickets</a><br>
+        <strong>Teatro Guiniguada</strong><br>
+        Calle Mesa de León, 2<br>
+        35001 Las Palmas de Gran Canaria
+    </li>
+    <li>
+        <span class="eventtitle">Renard Series - The Jewish Roots of Flamenco Lecture</span>
+        January 28, 2019 at 10am<br>
+        $5 admission<br>
+        Shames JCC on the Hudson<br>
+        371 South Broadway<br>
+        Tarrytown, NY 10591
+    </li>
+    <li>
+        <span class="eventtitle">Joaquín Rodrigo: An Anniversary Celebration-The Guitar and Beyond</span>
+        May 2, 2019<br>
+        Free Admission, Reservations required: <a href="mailto:events@hispanicsociety.org">events@hispanicsociety.org</a><br>
+        Hispanic Society of America<br>
+        Academy of Arts and Letters<br>
+        633 West 155th Street<br>
+        New York, NY 10032
+    </li>
   </ol>
 </div>
 <!-- End aside -->
