@@ -36,9 +36,9 @@
             choreographies studied in the different classes, adding more layers to the intricate, and exciting movements.</p>
             <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
             <h2 class="prependtop">Schedule</h2>
-            <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Spring 2019 Session</h3>
-            <p style="margin-top: 0;">April 3 - June 14, 2019<br>
-              No classes April 19th and April 24th.
+            <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Fall 2019 Session</h3>
+            <p style="margin-top: 0;">September 11 - December 13, 2019<br>
+              No classes the weeks of Oct 7th and Nov 25th.
             </p>
             <br />
             <table style="width: 95%">
@@ -50,10 +50,7 @@
                   <br />Nyack, NY
                 </td>
                 <td width="50%" class="classtitle" style="padding: 10px 3px 10px 0">
-                  <!-- <strong>Saturday Class Location:</strong>
-                  <br/>Miss Allie's Dance Connection
-                  <br/>73 South Broadway
-                  <br/>Nyack, NY-->
+                  <span class="classtitle"><br>Rear entrance with orange awning saying Helen Hayes Youth Theater</span>
                 </td>
               </tr>
             </table>
@@ -68,7 +65,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><strong>Dance</strong><br>12:45 - 1:45pm</td>
+                    <td><strong>Dance</strong><br>12:30 - 1:30pm</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick" />
@@ -76,11 +73,11 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
                       alt="PayPal - The safer, easier way to pay online!" />
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
-                      <span>Cost: $180</span>
+                      <span>Cost: $215</span>
                     </td>
                   </tr>
                   <tr>
-                    <td><strong>Castanets</strong><br>12:15 - 12:45pm</td>
+                    <td><strong>Castanets</strong><br>12:00 - 12:30pm</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
@@ -88,7 +85,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $90</span>
+                      <span>Cost: $105</span>
                     </td>
                   </tr>
                   <tr>
@@ -100,7 +97,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $250</span>
+                      <span>Cost: $320</span>
                     </td>
                   </tr>
                   <!-- <tr>
@@ -153,7 +150,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><strong>Dance</strong><br>10:45am - 11:45am</td>
+                    <td><strong>Dance</strong><br>11:00am - 12:00pm</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick" />
@@ -161,11 +158,11 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
                       alt="PayPal - The safer, easier way to pay online!" />
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
-                      <span>Cost: $180</span>
+                      <span>Cost: $215</span>
                     </td>
                   </tr>
                   <tr>
-                    <td><strong>Castanets</strong><br>10:15 - 10:45am</td>
+                    <td><strong>Castanets</strong><br>10:30am - 11:00am</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
@@ -173,7 +170,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $90</span>
+                      <span>Cost: $105</span>
                     </td>
                   </tr>
                   <tr>
@@ -185,7 +182,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
                       alt="PayPal - The safer, easier way to pay online!" />
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
-                      <span>Cost: $250</span>
+                      <span>Cost: $320</span>
                     </td>
                   </tr>
                 </tbody>
@@ -199,7 +196,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><strong>Dance</strong><br>9:00 - 10:15am</td>
+                    <td><strong>Dance</strong><br>9:15 - 10:30am</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
@@ -207,11 +204,11 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $240</span>
+                      <span>Cost: $265</span>
                     </td>
                   </tr>
                   <tr>
-                    <td><strong>Castanets</strong><br>10:15 - 10:45am</td>
+                    <td><strong>Castanets</strong><br>10:30 - 11:00am</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
@@ -219,7 +216,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $90</span>
+                      <span>Cost: $105</span>
                     </td>
                   </tr>
                   <tr>
@@ -231,7 +228,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $310</span>
+                      <span>Cost: $370</span>
                     </td>
                   </tr>
                 </tbody>
@@ -245,7 +242,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><strong>Repertory Class</strong><br>1:45 - 2:45pm</td>
+                    <td><strong>Repertory Class</strong><br>1:30 - 2:30pm</td>
                     <td class="center-align buy-cell">
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                       <input type="hidden" name="cmd" value="_s-xclick">
@@ -253,7 +250,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $180</span>
+                      <span>Cost: $215</span>
                     </td>
                   </tr>
                 </tbody>
