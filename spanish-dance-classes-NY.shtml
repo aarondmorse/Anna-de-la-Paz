@@ -38,7 +38,7 @@
             <h2 class="prependtop">Schedule</h2>
             <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Spring 2019 Session</h3>
             <p style="margin-top: 0;">April 3 - June 14, 2019<br>
-              No classes April 19th, April 24th and May 30th.
+              No classes April 19th and April 24th.
             </p>
             <br />
             <table style="width: 95%">
@@ -76,7 +76,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit"
                       alt="PayPal - The safer, easier way to pay online!" />
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
-                      <span>Cost: $162</span>
+                      <span>Cost: $180</span>
                     </td>
                   </tr>
                   <tr>
@@ -88,7 +88,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $80</span>
+                      <span>Cost: $90</span>
                     </td>
                   </tr>
                   <tr>
@@ -100,7 +100,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $225</span>
+                      <span>Cost: $250</span>
                     </td>
                   </tr>
                   <!-- <tr>
@@ -253,7 +253,7 @@
                       <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                       </form>
-                      <span>Cost: $162</span>
+                      <span>Cost: $180</span>
                     </td>
                   </tr>
                 </tbody>
