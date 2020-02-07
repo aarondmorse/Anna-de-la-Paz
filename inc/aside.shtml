@@ -15,7 +15,8 @@
 	<ul style="margin-bottom: 0">
 	  <li><a href="index.shtml" rel="bookmark">Home</a></li>
 	  <li><a href="meet-anna-de-la-paz-ny.shtml" rel="bookmark">Meet Anna de la Paz</a></li>
-	  <li><a href="spanish-dance-classes-ny.shtml" rel="bookmark">Spanish Dance Classes</a></li>
+    <li><a href="spanish-dance-classes-ny.shtml" rel="bookmark">Spanish Dance Classes</a></li>
+    <li><a href="flamenco-dance-workshop-NY.shtml" rel="bookmark">Flamenco Dance Workshop</a></li>
 	  <li><a href="performances-ny.shtml" rel="bookmark">Productions</a></li>
 	  <li><a href="arts-in-education-ny.shtml" rel="bookmark">Arts in Education</a></li>
 	  <li><a href="gallery-ny.shtml" rel="bookmark">Gallery</a></li>
@@ -53,19 +54,14 @@
   <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
     <li>
-      <span class="eventtitle">Great Nyack Get-Together</span>
-      Nyack Memorial Park<br>
-      September 14,2019<br>
-      Local Stage - 12:00pm<br>
-      FREE
-    </li>
-    <li>
-        <span class="eventtitle">Performance with American Bolero Dance Company: Homage to José Molina</span>
-        October 11-13, 2019 - 8pm<br>
-        The Secret Theater<br>
-        42-02 23rd Street<br>
-        Long Island City, NY 11101<br>
-        Tickets: TBA!<br>
+      <span class="eventtitle">Flamenco Dance Workshop<br>(5 weeks)</span>
+      Helen Hayes Studio<br>
+      142 Main St.<br>
+      Nyack, NY<br>
+      Fridays Feb 28 - April 3<br>
+      11:00am - 12pm<br>
+      cost: $100<br><br>
+      <a href="/flamenco-dance-workshop-NY.shtml" class="button">Register</a>
     </li>
   </ol>
 </div>
