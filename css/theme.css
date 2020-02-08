@@ -299,14 +299,27 @@ div.aside ol.events a{
 	color: #888;
 }
 
+div.aside ol.events .button {
+	padding: 8px 16px;
+	border-radius: 3px;
+	background-color: rgb(196,36,2);
+	color: #fff;
+	text-decoration: none;
+}
+
+div.aside ol.events .button:hover,
+div.aside ol.events .button:focus {
+	background-color: #911c01;
+}
+
 div.aside span{
 	display: block;
 	}
 
 div.aside span.eventtitle{
 	font-weight: bold;
-  font-size: 12px;
-  color: #aaa
+  font-size: 13px;
+  color: #fff
 	}
 
 div.aside ol li{
