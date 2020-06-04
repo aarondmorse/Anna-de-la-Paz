@@ -26,66 +26,71 @@
                         <strong>Adult Level III:</strong> This class is by invitation only. More advanced students enjoy perfecting choreographies studied in the different classes, adding more layers to the intricate, and exciting movements.</p>
                     <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
                     <h2 class="prependtop">Schedule</h2>
-                    <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Winter 2020 Session</h3>
-                    <p style="margin-top: 0;">January 3 - March 20, 2020<br> No class February 14 and the week of Feb 17th.
-                    </p>
-                    <br />
+                    <h3 class="pushrgt prependtop" style="margin-bottom: 0;">Technique and Sevillanas</h3>
+                    <p style="margin-top: 0;">June 29 - August 21, 2020</p>
+
                     <table style="width: 95%">
                         <tr>
-                            <td class="classtitle" style="padding: 10px 3px 10px 10px">
-                                <strong>Location:</strong>
-                                <br />Helen Hayes Studios
-                                <br />142 Main St.
-                                <br />Nyack, NY
+                            <td class="" colspan="2" style="padding: 0 3px 10px 0">
+                                <strong>Payment:</strong><br>
+                                $10 per class through Venmo @Annadelapaz or checks can be made payable to: Anna de la Paz
                             </td>
-                            <td width="50%" class="classtitle" style="padding: 10px 3px 10px 0">
-                                <span class="classtitle"><br>Rear entrance with orange awning saying Helen Hayes Youth Theater</span>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding: 10px 3px 10px 0">
+                                <strong>Register:</strong><br>
+                                Sign up via email to <a href="mailto:annadelapaz@hotmail.com">annadelapaz@hotmail.com</a>.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="" style="padding: 10px 3px 10px 0">
+                                <strong>Location:</strong>
+                                <br />Online via Zoom Meeting
+                                
+                            </td>
+                            <td width="50%" class="" style="padding: 10px 3px 10px 0">
+                                Zoom links will be emailed separately
                             </td>
                         </tr>
                     </table>
 
                     <div class="schedule-container">
-                        <h4>Level I Classes</h4>
                         <table class="schedule-grid" cellspacing="0">
-                            <thead>
-                                <tr>
-                                    <th colspan="2">Fridays</th>
-                                </tr>
-                            </thead>
                             <tbody>
                                 <tr>
-                                    <td><strong>Dance</strong><br>12:30 - 1:30pm</td>
+                                    <td><strong>Mondays &mdash; 10:00am - 11:00am</strong><br>
+                                        Levels 2/3 - Technique and Sevillanas with or without castanets
+                                    </td>
                                     <td class="center-align buy-cell">
-                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                                            <input type="hidden" name="cmd" value="_s-xclick" />
-                                            <input type="hidden" name="hosted_button_id" value="9VLT6PDEN37J8" />
-                                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>
-                                        <span>Cost: $180</span>
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Monday%20Technique%20and%20Sevillanas&body=Please%20sign%20me%20up%20for%20Monday%2010-11am%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Castanets</strong><br>12:00 - 12:30pm</td>
+                                    <td><strong>Wednesdays &mdash; 10:00am - 11:00am</strong><br>
+                                        Levels 2/3 - Technique and Sevillanas with or without castanets
+                                    </td>
                                     <td class="center-align buy-cell">
-                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                                            <input type="hidden" name="cmd" value="_s-xclick">
-                                            <input type="hidden" name="hosted_button_id" value="YBLUZB2GHRGJE">
-                                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                                        </form>
-                                        <span>Cost: $90</span>
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Technique%20and%20Sevillanas&body=Please%20sign%20me%20up%20for%20Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Dance + Castanets</strong></td>
+                                    <td><strong>Fridays &mdash; 10:00am - 11:00am</strong><br>
+                                        Beginner Castanets<br><br>
+                                    </td>
                                     <td class="center-align buy-cell">
-                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                                            <input type="hidden" name="cmd" value="_s-xclick">
-                                            <input type="hidden" name="hosted_button_id" value="NVYWW7WL42MJ4">
-                                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                                        </form>
-                                        <span>Cost: $260</span>
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Beginner%20Castanets&body=Please%20sign%20me%20up%20for%20Friday%2010-11am%20class" target="_blank" class="button">Register</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Fridays &mdash; 11:00am - 12:00pm</strong><br>
+                                        Absolute beginner/Level 1 -Dance Technique and Sevillanas
+                                    </td>
+                                    <td class="center-align buy-cell">
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Beginner%20Technique%20and%20Sevillanas&body=Please%20sign%20me%20up%20for%20Friday%2011am-12pm%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                                 <!-- <tr>
@@ -126,7 +131,7 @@
                       </form>
                       <span>Cost: $250</span>
                     </td>
-                  </tr> -->
+                  </tr> 
                             </tbody>
                         </table>
                         <h4>Level II Classes</h4>
@@ -238,7 +243,7 @@
                                         </form>
                                         <span>Cost: $180</span>
                                     </td>
-                                </tr>
+                                </tr>-->
                             </tbody>
                         </table>
 

@@ -11,6 +11,6 @@
 
     <link rel="stylesheet" href="css/lightbox.css">
     <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen, projection" />
-    <link rel="stylesheet" type="text/css" href="css/theme.css" media="screen, projection" id="theme" />
+    <link rel="stylesheet" type="text/css" href="css/theme.css?v=20200603" media="screen, projection" id="theme" />
 
 </head>

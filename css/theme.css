@@ -299,16 +299,17 @@ div.aside ol.events a{
 	color: #888;
 }
 
-div.aside ol.events .button {
+.button {
 	padding: 8px 16px;
 	border-radius: 3px;
 	background-color: rgb(196,36,2);
-	color: #fff;
+	color: #fff !important;
 	text-decoration: none;
+	border-bottom: 0 !important
 }
 
-div.aside ol.events .button:hover,
-div.aside ol.events .button:focus {
+.button:hover,
+.button:focus {
 	background-color: #911c01;
 }
 
