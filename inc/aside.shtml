@@ -50,7 +50,7 @@
   <!--End mc_embed_signup-->
 
 
-  <h3 class="prependtop">Upcoming Events</h3>
+  <!-- <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
     <li>
       <span class="eventtitle">Danzas de Ida y Vuelta</span>
@@ -58,6 +58,6 @@
       October 9, 2020<br>
       Time: TBD
     </li>
-  </ol>
+  </ol> -->
 </div>
 <!-- End aside -->

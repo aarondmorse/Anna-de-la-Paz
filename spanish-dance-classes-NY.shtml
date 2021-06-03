@@ -27,7 +27,7 @@
                     <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
                     <h2 class="prependtop">Schedule</h2>
                     <h3 class="pushrgt prependtop" style="margin-bottom: 0; font-weight: bold;">Flamenco <span style="font-weight: normal; font-size: .75em">Taught by Anna de la Paz</span></h3>
-                    <p style="margin-top: 0;">Fall Session: Starting Spet. 9, 2020</p>
+                    <p style="margin-top: 0;">Summer Session: Starting July 7, 2021</p>
 
                     <table style="width: 95%">
                         <tr>
@@ -42,41 +42,37 @@
                             <td colspan="2"><hr></td>
                         </tr>
                         <tr>
-                            <td class="" colspan="2">
-                                <h4 style="font-size: 18px;">Outdoor Classes</h4>
-                                
-                            </td>
-                        </tr>
-                        <tr>
                             <td class="" style="padding: 10px 3px 10px 0">
                                 <strong>Reservations Required</strong><br>
-                                $25/class<br>
-                                (minimum of 4 people; maximum of 8 people)
+                                Cost: $20 in person / $12 over Zoom
+                                
                             </td>
                             <td width="50%" class="" style="padding: 10px 3px 10px 0">
                                 <strong>Location:</strong><br />
-                                Marydell Faith and Life Center<br>
-                                640 N. Midland Avenue, Nyack, NY
+                                Gagliardi Studio & Gallery<br>
+                                39 Hudson Avenue<br>
+                                Nyack, NY
                             </td>
                         </tr>
                     </table>
 
                     <div class="schedule-container">
+                        <h4>Levle I Classes</h4>
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
                                 <tr>
-                                    <td colspan="2"><strong>Wednesdays</strong></td>
+                                    <td colspan="2"><strong>Fridays</strong></td>
                                 </tr>
                                 <tr>
-                                    <td><span class="eventtitle">Private/Semi-private lessons</span><br>
-                                        10:00am - 11:00am<br>
+                                    <td><span class="eventtitle">July 9, July 16, August 6, August 13, August 20</span><br>
+                                        11:00am - 12:00pm<br>
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wendesday%20Outdoor%20Private&body=Please%20sign%20me%20up%20for%20Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20I%20Fridays&body=Please%20sign%20me%20up%20for%20Friday%2011am-12pm%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <td><span class="eventtitle">Level II</span><br>
                                         11:00am - 12:00pm
                                     </td>
@@ -84,25 +80,27 @@
                                         <br>
                                         <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%Outdoor%2011-12&body=Please%20sign%20me%20up%20for%20Wednesday%2011am-12pm%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr>
+                                </tr> -->
                             </tbody>
                         </table>
+
+                        <h4>Level II Classes</h4>
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
                                 <tr>
-                                    <td colspan="2"><strong>Thursdays</strong></td>
+                                    <td colspan="2"><strong>Wednesdays</strong></td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <span class="eventtitle">Level III</span><Br>
-                                        9:00am - 10:00am
+                                        <span class="eventtitle">July 7, July 14, July 21, August 4, August 11,<br>August 18</span><Br>
+                                        10:00am - 11:00am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Thursday%20Outdoor%20Level%20III&body=Please%20sign%20me%20up%20for%20Thursday%209-10am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Level%20II&body=Please%20sign%20me%20up%20for%Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <td>
                                         <span class="eventtitle">Level I</span><Br>
                                         10:00am - 11:00am
@@ -111,12 +109,12 @@
                                         <br>
                                         <a href="mailto:annadelapaz@hotmail.com?subject=Thursday%20Outdoor%20Level%20I&body=Please%20sign%20me%20up%20for%20Thursday%2010-11am%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr>
+                                </tr> -->
                             </tbody>
                         </table>
                     </div>
 
-                    <table style="width: 95%">
+                    <table style="width: 95%; display: none">
                         <tr>
                             <td class="" colspan="2">
                                 <h4 style="font-size: 18px;">Zoom Classes</h4>
@@ -138,7 +136,7 @@
                             </td>
                         </tr>
                     </table>                    
-                    <div class="schedule-container">
+                    <div class="schedule-container" style="display: none">
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
                                 <tr>
