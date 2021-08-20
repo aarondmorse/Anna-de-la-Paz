@@ -27,7 +27,7 @@
                     <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
                     <h2 class="prependtop">Schedule</h2>
                     <h3 class="pushrgt prependtop" style="margin-bottom: 0; font-weight: bold;">Flamenco <span style="font-weight: normal; font-size: .75em">Taught by Anna de la Paz</span></h3>
-                    <p style="margin-top: 0;">Summer Session: Starting July 7, 2021</p>
+                    <p style="margin-top: 0;">Fall Session: September 8 - December 17, 2021<br>No classes the week of Nov 22nd</p>
 
                     <table style="width: 95%">
                         <tr>
@@ -44,72 +44,90 @@
                         <tr>
                             <td class="" style="padding: 10px 3px 10px 0">
                                 <strong>Reservations Required</strong><br>
-                                Cost: $20 in person / $12 over Zoom
+                                Cost for Dance Classes:<br>
+                                $20 in person / $12 over Zoom
+                                <br><br>
+                                Cost for Castanets:<br>
+                                $10 in person / $6 over Zoom 
                                 
                             </td>
                             <td width="50%" class="" style="padding: 10px 3px 10px 0">
                                 <strong>Location:</strong><br />
-                                Gagliardi Studio & Gallery<br>
-                                39 Hudson Avenue<br>
-                                Nyack, NY
+                                Hellen Hayes Studios<br>
+                                142 Main Street (Rear Entrance)<br>
+                                Nyack, NY<br>
+                                (Door with the orange awning saying Helen Hayes Youth Theater)
                             </td>
                         </tr>
                     </table>
 
                     <div class="schedule-container">
-                        <h4>Level I Classes</h4>
+                        <h4>Wednesdays</h4>
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
                                 <tr>
-                                    <td colspan="2"><strong>Fridays</strong></td>
+                                    <td><span class="eventtitle">Level III</span><br>
+                                       8:30 - 9:30 am
+                                    </td>
+                                    <td class="center-align buy-cell">
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20III%20Wednesdays&body=Please%20sign%20me%20up%20for%20Wednesday%208:30am-9:30am%20class" target="_blank" class="button">Register</a>
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td><span class="eventtitle">July 9, July 16, August 6, August 13, August 20</span><br>
-                                        11:00am - 12:00pm<br>
+                                    <td><span class="eventtitle">Castanets (Levels II & III)</span><br>
+                                        9:30 - 10:00am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20I%20Fridays&body=Please%20sign%20me%20up%20for%20Friday%2011am-12pm%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%Castanets&body=Please%20sign%20me%20up%20for%20Wednesday%20Castanets%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
-                                <!-- <tr>
+                                <tr>
                                     <td><span class="eventtitle">Level II</span><br>
-                                        11:00am - 12:00pm
+                                        10:00 - 11:00am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%Outdoor%2011-12&body=Please%20sign%20me%20up%20for%20Wednesday%2011am-12pm%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Level%20II&body=Please%20sign%20me%20up%20for%20Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr> -->
+                                </tr>
                             </tbody>
                         </table>
 
-                        <h4>Level II Classes</h4>
+                        <h4>Fridays</h4>
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
                                 <tr>
-                                    <td colspan="2"><strong>Wednesdays</strong></td>
+                                    <td>
+                                        <span class="eventtitle">Castanets (Level I)</span><Br>
+                                        12:00 - 12:30pm
+                                    </td>
+                                    <td class="center-align buy-cell">
+                                        <br>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Castanets%20Level%20I&body=Please%20sign%20me%20up%20for%Friday%20Castanets%20Level%201%2012-12:30pm%20class" target="_blank" class="button">Register</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <span class="eventtitle">July 7, July 14, July 21, August 4, August 11,<br>August 18</span><Br>
-                                        10:00am - 11:00am
+                                        <span class="eventtitle">Level I</span><Br>
+                                        12:30pm - 1:30pm
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Level%20II&body=Please%20sign%20me%20up%20for%Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Level%20I&body=Please%20sign%20me%20up%20for%20Friday%2012:30-1:30pm%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
-                                <!-- <tr>
+                                <tr>
                                     <td>
-                                        <span class="eventtitle">Level I</span><Br>
-                                        10:00am - 11:00am
+                                        <span class="eventtitle">Repertory (Levels II & III)</span><Br>
+                                        1:30 - 2:30pm
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Thursday%20Outdoor%20Level%20I&body=Please%20sign%20me%20up%20for%20Thursday%2010-11am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20RRepertory%20Level%20II%20&%20III&body=Please%20sign%20me%20up%20for%20Friday%201:30-2:30pm%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr> -->
+                                </tr>
                             </tbody>
                         </table>
                     </div>
