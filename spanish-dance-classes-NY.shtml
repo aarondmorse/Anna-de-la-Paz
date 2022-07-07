@@ -25,12 +25,21 @@
                     <p>
                         <strong>Adult Level III:</strong> This class is by invitation only. More advanced students enjoy perfecting choreographies studied in the different classes, adding more layers to the intricate, and exciting movements.</p>
                     <p>All classes are a fun way to meet new people and to keep the mind and the body working!</p>
-                    <h2 class="prependtop">Ongoing Class Schedule</h2>
+                    <h2 class="prependtop" style="margin-bottom: 0;">Summer 2022 Session</h3>
                     <h3 class="pushrgt prependtop" style="margin-bottom: 0; font-weight: bold;">Flamenco <span style="font-weight: normal; font-size: .75em">Taught by Anna de la Paz</span></h3>
 
                     <table style="width: 95%">
                         <tr>
-                            <td colspan="2" style="padding: 0 3px 20px 0">
+                            <td class="" width="50%" style="padding: 10px 3px 10px 0">
+                                <strong>Reservations Required</strong><br>
+                                Cost for Dance Classes:<br>
+                                $20 in person / $12 over Zoom
+                                <br><br>
+                                Cost for Castanets:<br>
+                                $10 in person / $6 over Zoom 
+                                
+                            </td>
+                            <td width="50%" style="padding: 0 3px 20px 0">
                                 <strong>Register:</strong><br>
                                 Sign up via email to <a href="mailto:annadelapaz@hotmail.com">annadelapaz@hotmail.com</a>.<br><br>
                                 <strong>Payment</strong><br>
@@ -41,21 +50,18 @@
                             <td colspan="2"><hr></td>
                         </tr>
                         <tr>
-                            <td class="" style="padding: 10px 3px 10px 0">
-                                <strong>Reservations Required</strong><br>
-                                Cost for Dance Classes:<br>
-                                $20 in person / $12 over Zoom
-                                <br><br>
-                                Cost for Castanets:<br>
-                                $10 in person / $6 over Zoom 
-                                
-                            </td>
-                            <td width="50%" class="" style="padding: 10px 3px 10px 0">
+                            <td width="50%" class="" style="padding: 10px 5px 10px 0">
                                 <strong>Location:</strong><br />
                                 Helen Hayes Studios<br>
                                 142 Main Street (Rear Entrance)<br>
                                 Nyack, NY<br>
                                 (Door with the orange awning saying Helen Hayes Youth Theater)
+                            </td>
+                            <td width="50%" style="padding: 10px 0 10px 5px">
+                                * Classes on 7/13, 7/15 and 7/22 will be held at<br/>
+                                Gagliardi Studio<br>
+                                39 Hudson Avenue,<br>
+                                Nyack, NY 10960
                             </td>
                         </tr>
                     </table>
@@ -67,11 +73,11 @@
                             <tbody>
                                 <tr>
                                     <td><span class="eventtitle">Level I</span><br>
-                                       6:00 - 7:00pm
+                                       6:15 - 7:15pm
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20I%20Tuesdays&body=Please%20sign%20me%20up%20for%Tuesday%206:00pm-7:00pm%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20I%20Tuesdays&body=Please%20sign%20me%20up%20for%Tuesday%206:15pm-7:15pm%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -82,16 +88,16 @@
                             <tbody>
                                 <tr>
                                     <td><span class="eventtitle">Level III</span><br>
-                                       8:30 - 9:30 am
+                                       9:00 - 10:00 am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20III%20Wednesdays&body=Please%20sign%20me%20up%20for%20Wednesday%208:30am-9:30am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Level%20III%20Wednesdays&body=Please%20sign%20me%20up%20for%20Wednesday%209:00am-10:00am%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td><span class="eventtitle">Castanets (Levels II & III)</span><br>
-                                        9:30 - 10:00am
+                                        10:15 - 10:45am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
@@ -100,11 +106,11 @@
                                 </tr>
                                 <tr>
                                     <td><span class="eventtitle">Level II</span><br>
-                                        10:00 - 11:00am
+                                        10:45 - 11:45am
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
-                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Level%20II&body=Please%20sign%20me%20up%20for%20Wednesday%2010-11am%20class" target="_blank" class="button">Register</a>
+                                        <a href="mailto:annadelapaz@hotmail.com?subject=Wednesday%20Level%20II&body=Please%20sign%20me%20up%20for%20Wednesday%2010:45-11:45am%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -113,7 +119,7 @@
                         <h4>Fridays</h4>
                         <table class="schedule-grid" cellspacing="0">
                             <tbody>
-                                <tr>
+                                <!-- <tr>
                                     <td>
                                         <span class="eventtitle">Castanets (Level I)</span><Br>
                                         12:00 - 12:30pm
@@ -122,18 +128,18 @@
                                         <br>
                                         <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Castanets%20Level%20I&body=Please%20sign%20me%20up%20for%Friday%20Castanets%20Level%201%2012-12:30pm%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr>
+                                </tr> -->
                                 <tr>
                                     <td>
                                         <span class="eventtitle">Level I</span><Br>
-                                        12:30pm - 1:30pm
+                                        11:00am - 12:00pm
                                     </td>
                                     <td class="center-align buy-cell">
                                         <br>
                                         <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20Level%20I&body=Please%20sign%20me%20up%20for%20Friday%2012:30-1:30pm%20class" target="_blank" class="button">Register</a>
                                     </td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <td>
                                         <span class="eventtitle">Repertory (Levels II & III)</span><Br>
                                         1:30 - 2:30pm
@@ -142,7 +148,7 @@
                                         <br>
                                         <a href="mailto:annadelapaz@hotmail.com?subject=Friday%20RRepertory%20Level%20II%20&%20III&body=Please%20sign%20me%20up%20for%20Friday%201:30-2:30pm%20class" target="_blank" class="button">Register</a>
                                     </td>
-                                </tr>
+                                </tr> -->
                             </tbody>
                         </table>
                     </div>
