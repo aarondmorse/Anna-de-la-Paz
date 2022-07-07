@@ -53,15 +53,19 @@
   <h3 class="prependtop">Upcoming Events</h3>
   <ol class="events">
     <li>
-      <span class="eventtitle">Espa&#241;a in New York</span>
-      A Spanish Dance, Music and Song Concert<br>
-      Garden at the Edward Hopper House Museum & Study Center<br>
-      82 N Broadway, Nyack, NY 10960<br>
-      June 11, 2022<br>
-      Time: 7:00pm</br>
-      Tickets: $25 / $10 children under 16<br>
-      <a style="word-break: break-all" href="https://espanainnewyork.brownpapertickets.com" target="_blank">https://espanainnewyork.brownpapertickets.com</a>
+      <span class="eventtitle">Spanish Dance Spectacular</span>
+      July 10, 2022<br>
+      Time: 2:00pm</br>
+      Free - registration required<br>
+      <a style="word-break: break-all" href="https://www.finkelsteinlibrary.org/adult-programs" target="_blank">www.finkelsteinlibrary.org/adult-programs</a><br>
+      845-352-5700, ext 244
     </li>
   </ol>
-</div>
+
+  <hr>
+  <h4 class="adp-sidebar-featureHeading">HISPANIC CULTURAL EDUCATION FOR TODAY'S GENERATION</h4>
+  <a href="https://www.hispanicculturearts.com/" class="adp-sidebar-featureLogo" target="_blank"><img src="images/logo-hca.png" alt="Visit the Hispanic Culture Arts Website" style="max-width: 100%" /></a>
+  <p class="adp-sidebar-featureText">Fostering creativity, discovery, and connection through Classical Hispanic Arts education in New York City.</p>
+  <p class="adp-sidebar-featureText"><a href="https://www.hispanicculturearts.com/" class="adp-sidebar-featureLink" target="_blank">www.hispanicculturearts.com</a></p>
+  </div>
 <!-- End aside -->

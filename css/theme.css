@@ -362,6 +362,40 @@ div.nav a:active{
   	top: .1em;
 	}
 
+.adp-sidebar-featureLogo {
+	display: block; 
+	margin-top: 12px; 
+	background: #fff;
+	opacity: .8;
+	transition: .3s;
+	border-radius: 3px;
+}
+
+.adp-sidebar-featureLogo:hover {
+	opacity: 1;
+}
+
+.adp-sidebar-featureHeading {
+	margin-top: 12px; 
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+}
+
+.adp-sidebar-featureText {
+	margin-top: 12px; 
+	font-size: 12px; 
+	line-height: 1.5;
+	text-align: center; 
+	color: #ddd; 
+}
+
+.adp-sidebar-featureLink {
+	color: #ddd;
+}
+
 /* ------------------------------------------------------- */
 /* Footer*/
 /* ------------------------------------------------------- */
